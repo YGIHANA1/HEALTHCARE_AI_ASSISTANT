@@ -1,4 +1,4 @@
-# 🧠 FutureForge Healthcare AI Assistant
+# 🧠 Healthcare AI Assistant
 
 A powerful AI-powered tool built with React and Flask, designed to help clinics, communities, and individuals assess symptoms and receive medical guidance instantly using LLMs.
 
